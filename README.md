@@ -52,17 +52,21 @@ I wouuld like to go back and have a bit more time to refactor my code. I also wo
 ### Project Overview
 
 #### List out the tools you used:
-1.
-2.
-3.
+1. google
+2. cohort mates
+3. study hall
 ...
 
 #### Write a 1-2 sentence synopsis of what this project does:
+this project uses api data from 4 different dmvs to create vehicle objects and dmv objects. Ww then use these objects to test a variety of features a DMV would offer such as earning a permit, registering a vehicle, taking a written test, and taking a road test.
 
 ### Reflection Questions: 
 **1. Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.**<br />
+i first went into pry and looked at how the data was structured. i then copied an object from each data set to my text editor so I would have an example from each and not keep having to pry in each time. I then used this info to build out my project
 **2. What was the benefit of using TDD while building out this project?**<br />
+TDD as always helped shape the way the code was written for this project. It also allowed me to build more robust code by testing for a variety of situations 
 **3. What was a resource that you used during this project and how did you use this to move your project forward?**<br />
+my best resource this project was the study hall. I was pretty confused on how to format the data but after hereing how others apporached it I was able to figure it out on my own.
 
 ## Paired Paired
 
